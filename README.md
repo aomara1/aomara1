@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Aileen</h1>
 <h3 align="center">I am a Lecturer in Web development, Databases and Networks</h3>
 <h2>I work in TUS</h2>
-<img src="https://unsplash.com/photos/a-computer-screen-with-a-lot-of-text-on-it-bdZ3bzRde5g" >
+![alt text]([http://url/to/img.png](https://unsplash.com/photos/a-computer-screen-with-a-lot-of-text-on-it-bdZ3bzRde5g))
+<img src="" >
 - ⚡ Fun fact **I think I'm really funny**
 
 <h3 align="left">Connect with me:</h3>
