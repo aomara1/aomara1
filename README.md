@@ -19,4 +19,4 @@ I am a Lecturer at TUS - I lecture in web development, databases and networks.
 [![](https://visitcount.itsvg.in/api?id=aomara1&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-<a href="[project.html](https://aomara1.github.io/aomara1/project.html)https://aomara1.github.io/aomara1/project.html">Project</a>
+https://aomara1.github.io/aomara1/project.html
