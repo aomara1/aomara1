@@ -1,7 +1,7 @@
 # 💫 About Me:
 I am a Lecturer at TUS - I lecture in web development, databases and networks.
 
-# My Interests
+## My Interests
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/linkedin.com/in/aileen-o-mara-224a1292) 
 
