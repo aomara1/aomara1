@@ -3,7 +3,7 @@
     <a href="https://aomara1.github.io/aomara1/project.html"> Project </a>
     <a href="https://aomara1.github.io/aomara1/demo.html"> Demo </a>
 
-  </nav>
+
 # 💫 About Me:
 I am a Lecturer at TUS - I lecture in web development, databases and networks.
 
@@ -25,5 +25,4 @@ I am a Lecturer at TUS - I lecture in web development, databases and networks.
 [![](https://visitcount.itsvg.in/api?id=aomara1&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-![Project](https://aomara1.github.io/aomara1/project.html)
-<a href="project.html" >Project </a>
+
