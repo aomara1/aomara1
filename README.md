@@ -1,7 +1,7 @@
 
-   <a href="https://aomara1.github.io/aomara1"> Home</a>
-    <a href="https://aomara1.github.io/aomara1/project.html"> Project </a>
-    <a href="https://aomara1.github.io/aomara1/demo.html"> Demo </a>
+  * <a href="https://aomara1.github.io/aomara1"> Home</a>
+   * <a href="https://aomara1.github.io/aomara1/project.html"> Project </a>
+   * <a href="https://aomara1.github.io/aomara1/demo.html"> Demo </a>
 
 
 # 💫 About Me:
