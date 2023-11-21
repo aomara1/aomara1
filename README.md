@@ -1,10 +1,8 @@
-<nav>
-  <ul>
-    
-    <li><a href="https://aomara1.github.io/aomara1"> Home</a></li>
-    <li><a href="https://aomara1.github.io/aomara1/project.html"> Project </a></li>
-    <li><a href="https://aomara1.github.io/aomara1/demo.html"> Demo </a></li>    
-</ul>
+
+   <a href="https://aomara1.github.io/aomara1"> Home</a>
+    <a href="https://aomara1.github.io/aomara1/project.html"> Project </a>
+    <a href="https://aomara1.github.io/aomara1/demo.html"> Demo </a>
+
   </nav>
 # 💫 About Me:
 I am a Lecturer at TUS - I lecture in web development, databases and networks.
