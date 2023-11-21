@@ -1,3 +1,6 @@
+<div id="header" align="center">
+  <img src="[https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="10](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2V4bDVobW90OTF0MmxlMmp2d3Qycjd2MGxqajV3NjJxaGMxdnJ3byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/M9gbBd9nbDrOTu1Mqx/giphy.gif)0"/>
+</div>
 # 💫 About Me:
 I am a Lecturer at TUS - I lecture in web development, databases and networks.
 
