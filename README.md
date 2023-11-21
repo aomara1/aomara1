@@ -21,3 +21,4 @@ I am a Lecturer at TUS - I lecture in web development, databases and networks.
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 ![Project](https://aomara1.github.io/aomara1/project.html)
+<a href="project.html" >Project </a>
