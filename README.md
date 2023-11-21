@@ -2,7 +2,7 @@
 
  <img src="https://media.giphy.com/media/YbXLZ6dymH758xSEbM/giphy.gif" width="150">
  </div>
-# 💫 About Me:
+ 💫 About Me:
 I am a Lecturer at TUS - I lecture in web development, databases and networks.
 
 ## My Interests
