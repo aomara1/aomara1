@@ -1,4 +1,11 @@
-<a href="https://aomara1.github.io/aomara1/project.html"> Project </a>
+<nav>
+  <ul>
+    
+    <li><a href="https://aomara1.github.io/aomara1"> Home</a></li>
+    <li><a href="https://aomara1.github.io/aomara1/project.html"> Project </a></li>
+    <li><a href="https://aomara1.github.io/aomara1/demo.html"> Demo </a></li>    
+</ul>
+  </nav>
 # 💫 About Me:
 I am a Lecturer at TUS - I lecture in web development, databases and networks.
 
